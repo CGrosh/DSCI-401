@@ -1,0 +1,4 @@
+This is a sample text file.
+My name is Chris.
+I'm having pizza for dinner!
+Tonight will be extra-special.
